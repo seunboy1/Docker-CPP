@@ -49,4 +49,4 @@ RUN cmake --build build
 # # This command runs your application
 CMD ["./build/simple-demo", "black.jpeg"]
 
-LABEL Name=democppdocker Version=0.0.1
+LABEL Name=dockercpp Version=0.0.1

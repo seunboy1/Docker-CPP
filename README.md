@@ -4,10 +4,10 @@ This is a simple C++ application built with docker for cross-platform developmen
 
 1. Build the docker image
    ```bash
-    docker build --rm -f Dockerfile -t democppdocker:latest .
+    docker build --rm -f Dockerfile -t dockercpp:latest .
     ```
 2. Run the program
    ```bash
-    docker run --rm -it  democppdocker:latest
+    docker run --rm -it  dockercpp:latest
     ```
 
